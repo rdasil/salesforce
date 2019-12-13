@@ -5,6 +5,6 @@
     { "path" : "utils" } 
   ],
 "namespace": "", 
-"sfdcLoginUrl" : "https://test.salesforce.com", 
+"sfdcLoginUrl" : "https://login.salesforce.com", 
 "sourceApiVersion": "46.0"
 }
