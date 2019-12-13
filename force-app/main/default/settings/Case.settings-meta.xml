@@ -12,9 +12,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>webfleetdevorg@mccabe.com</defaultCaseOwner>
+    <defaultCaseOwner>webfleettestorg@webfleettestorg.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>webfleetdevorg@mccabe.com</defaultCaseUser>
+    <defaultCaseUser>webfleettestorg@webfleettestorg.com</defaultCaseUser>
     <emailToCase>
         <enableE2CSourceTracking>true</enableE2CSourceTracking>
         <enableEmailToCase>true</enableEmailToCase>
