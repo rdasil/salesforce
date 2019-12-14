@@ -69,7 +69,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Webfleet_Support_App1</name>
+        <name>Webfleet_Support_App</name>
         <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>
