@@ -1,0 +1,2 @@
+Used to test what happens if you merge master into develop when the automatic deleting of head branches is ON and 
+both develop and master branches are protected.
